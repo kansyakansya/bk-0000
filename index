@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>BK-0000</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <p>BK-0000</p>
+    <p>接続記録を開きました。</p>
+
+    <p>
+      この記録を読んでいるなら、あなたはおそらく、
+      どこか別の媒体からここへ到達しています。
+    </p>
+
+    <p>内容の要約は不要です。</p>
+
+    <p>まず確認してください。</p>
+
+    <p>このURLを、どこで見つけましたか。</p>
+
+    <p>こちらは応答を待っています。</p>
+  </main>
+</body>
+</html>
